@@ -1,0 +1,1 @@
+Readme file for pands2022 course
